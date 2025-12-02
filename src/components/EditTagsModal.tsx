@@ -19,7 +19,7 @@ export const EditTagsModal = ({
   return (
     <Modal show={show} onHide={handleClose}>
       <Modal.Header closeButton>
-        <Modal.Title>Edit Note</Modal.Title>
+        <Modal.Title>Edit Tags</Modal.Title>
       </Modal.Header>
       <Modal.Body>
         <Form>
